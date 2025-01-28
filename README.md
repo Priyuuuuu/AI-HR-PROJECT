@@ -37,7 +37,6 @@
 - **Database**: MongoDB / PostgreSQL
 - **AI Tools**: Google Generative AI (Gemini), LangChain
 - **Other Libraries**: PyTorch, TensorFlow, OpenAI API
-- **Deployment**: Streamlit, AWS / Azure
 
 ---
 
